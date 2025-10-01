@@ -15,7 +15,6 @@ body {
   --black-color: #000000;
 }
 
-
 /* Main START */
 .content {
   display: grid;
@@ -31,7 +30,7 @@ body {
 }
 
 .content span {
-  color: var(--primary-color)
+  color: var(--primary-color);
 }
 
 .box1 {
@@ -49,7 +48,6 @@ body {
   text-align: center;
 }
 
-
 /* .img */
 img {
   display: block;
@@ -57,9 +55,7 @@ img {
   margin: 50px 10px;
 }
 
-
 /* Main END */
-=======
 h1 {
   color: var(--primary-color);
   font-size: 4rem;
@@ -111,7 +107,11 @@ h2 {
   display: flex;
   justify-content: center;
   padding: 1rem 2rem;
-  background: linear-gradient(to right, var(--black-color), var(--primary-color));
+  background: linear-gradient(
+    to right,
+    var(--black-color),
+    var(--primary-color)
+  );
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   position: sticky;
   top: 0;
@@ -136,7 +136,11 @@ h2 {
 }
 
 .footer {
-  background: linear-gradient(to right, var(--black-color), var(--primary-color));
+  background: linear-gradient(
+    to right,
+    var(--black-color),
+    var(--primary-color)
+  );
   color: var(--white-color);
   padding: 2rem 1rem;
   text-align: center;
@@ -149,7 +153,6 @@ h2 {
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 1rem;
-  
 }
 
 .footer-bottom {
@@ -157,5 +160,5 @@ h2 {
   margin-top: 30px;
   padding-top: 15px;
   font-size: 14px;
-  color:white;
+  color: white;
 }
