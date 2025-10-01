@@ -1,4 +1,4 @@
-# Skanerost
+# Skånerost
 
 En enkel webbsida för ett café, byggd som en onepager med **HTML** och **CSS**.  
 Projektet skapades som en övning i att använda **GitHub** för samarbete - med fokus på att skapa issues, branches och pull requests.
@@ -23,7 +23,7 @@ Projektet genomfördes som en del av kursmoment för att öva på versionshanter
 
 1. Klona repot:
    ```bash
-   git clone https://github.com/<användarnamn>/<repo-namn>.git
+   git clone https://github.com/isabellea-f/Skanerost.git.git
    ```
 
 ## 🔗 Länk till projektet
