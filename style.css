@@ -14,3 +14,48 @@ body {
   --white-color: #ffffff;
   --black-color: #000000;
 }
+
+
+/* Main START */
+.content {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  width: 75%;
+  justify-self: center;
+}
+
+.content h2 {
+  margin-top: 100px;
+  text-align: center;
+  font-style: italic;
+}
+
+.content span {
+  color: var(--primary-color)
+}
+
+.box1 {
+  background-color: var(--white-color);
+  justify-items: center;
+}
+
+.box2 {
+  background-color: var(--white-color);
+  justify-items: center;
+}
+
+.box p {
+  padding: 10px;
+  text-align: center;
+}
+
+
+/* .img */
+img {
+  display: block;
+  width: 300px;
+  margin: 50px 10px;
+}
+
+
+/* Main END */
