@@ -26,6 +26,6 @@ Projektet genomfördes som en del av kursmoment för att öva på versionshanter
    git clone https://github.com/isabellea-f/Skanerost.git
    ```
 
-## 🔗 Länk till projektet
+## Länk till projektet
 
-[GitHub-repo](https://github.com/isabellea-f/Skanerost)
+🔗[GitHub-repo](https://github.com/isabellea-f/Skanerost)
