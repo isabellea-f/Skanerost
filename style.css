@@ -14,3 +14,31 @@ body {
   --white-color: #ffffff;
   --black-color: #000000;
 }
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(to right, var(--black-color), var(--primary-color));
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  color: white;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
