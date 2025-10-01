@@ -23,7 +23,7 @@ Projektet genomfördes som en del av kursmoment för att öva på versionshanter
 
 1. Klona repot:
    ```bash
-   git clone https://github.com/isabellea-f/Skanerost.git.git
+   git clone https://github.com/isabellea-f/Skanerost.git
    ```
 
 ## 🔗 Länk till projektet
